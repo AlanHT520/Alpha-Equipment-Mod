@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G" : "minecraft:gilded_blackstone"
+  },
+  "pattern": [
+    "G G",
+    "GGG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae:blackstone_chestplate"
+  }
+}

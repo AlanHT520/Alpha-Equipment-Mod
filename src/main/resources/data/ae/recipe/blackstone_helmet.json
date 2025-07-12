@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G" : "minecraft:gilded_blackstone"
+  },
+  "pattern": [
+    "GGG",
+    "G G"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae:blackstone_helmet"
+  }
+}

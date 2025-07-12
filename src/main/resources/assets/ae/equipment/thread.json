@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ae:thread"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "ae:thread"
+      }
+    ]
+  }
+}

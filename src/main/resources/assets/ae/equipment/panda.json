@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ae:panda"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "ae:panda"
+      }
+    ]
+  }
+}

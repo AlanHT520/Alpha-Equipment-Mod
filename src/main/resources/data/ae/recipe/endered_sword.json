@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": "ae:ender_sword",
+    "D": "minecraft:ender_pearl"
+  },
+  "pattern": [
+    " D ",
+    "DID",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae:endered_sword"
+  }
+}

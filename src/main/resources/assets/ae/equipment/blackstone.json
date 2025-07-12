@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ae:blackstone"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "ae:blackstone"
+      }
+    ]
+  }
+}

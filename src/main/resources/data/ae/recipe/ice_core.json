@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "minecraft:packed_ice",
+    "I": "minecraft:blue_ice"
+  },
+  "pattern": [
+    " G ",
+    "GIG",
+    " G "
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae:ice_core"
+  }
+}

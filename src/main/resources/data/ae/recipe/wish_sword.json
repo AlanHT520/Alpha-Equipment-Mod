@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": "ae:panda_sword",
+    "D": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    " D ",
+    "DID",
+    " D "
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae:wish_sword"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "ae:block/nether_reactor_core" }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": "minecraft:stick",
+    "D": "minecraft:redstone_block"
+  },
+  "pattern": [
+    "D",
+    "D",
+    "I"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae:redstone_claymore"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "itemGroup.ae.ae_items": "Alpha Equipment",
+
+  "item.ae.sculk_sword": "幽匿之刃",
+  "item.ae.sculk_pickaxe": "幽匿之镐",
+  "item.ae.ice_sword": "冰霜之刃",
+  "item.ae.blaze_sword": "烈焰之刃",
+  "item.ae.blaze_core": "烈焰核心",
+  "item.ae.ice_core": "冰霜核心",
+
+  "item.ae.command_book": "命令附魔书",
+
+  "item.ae.command_sword": "命令之刃",
+  "item.ae.command_pickaxe": "命令镐",
+  "item.ae.command_axe": "命令斧",
+  "item.ae.command_shovel": "命令锄",
+  "item.ae.command_hoe": "命令锄",
+
+  "item.ae.blood_sword": "铁血之刃",
+  "item.ae.core_sword": "核心之刃",
+  "item.ae.panda_sword": "黑白之刃",
+  "item.ae.thread_sword": "线程之刃",
+  "item.ae.wish_sword": "许愿之刃",
+  "item.ae.wither_sword": "凋灵之刃",
+  "item.ae.wither_a_sword": "进阶凋灵刃",
+  "item.ae.ender_sword": "终末之刃",
+  "item.ae.endered_sword": "终末大刃",
+  "item.ae.panda_pickaxe": "黑白镐",
+  "item.ae.core_pickaxe": "核心镐",
+  "item.ae.thread_pickaxe": "线程镐",
+
+  "item.ae.redstone_claymore": "末日大刀",
+  "item.ae.redstone_pickaxe": "暗之收割者",
+
+  "item.ae.thread_helmet": " 线程头盔",
+  "item.ae.thread_chestplate": "线程胸甲",
+  "item.ae.thread_leggings": "线程护腿",
+  "item.ae.thread_boots": "线程靴子",
+
+  "item.ae.core_helmet": "核心头盔",
+  "item.ae.core_chestplate": "核心胸甲",
+  "item.ae.core_leggings": "核心护腿",
+  "item.ae.core_boots": "核心靴子",
+
+  "item.ae.panda_helmet": "黑白头盔",
+  "item.ae.panda_chestplate": "黑白胸甲",
+  "item.ae.panda_leggings": "黑白护腿",
+  "item.ae.panda_boots": "黑白靴子",
+
+  "item.ae.blackstone_helmet": "黑石头盔",
+  "item.ae.blackstone_chestplate": "黑石胸甲",
+  "item.ae.blackstone_boots": "黑石靴子",
+
+
+  "item.ae.nether_reactor_core": "Nether Reactor Core",
+  "block.ae.nether_reactor_core": "Nether Reactor Core",
+
+  "item.ae.wildfire_spawn_egg": "狱火行者刷怪蛋",
+
+  "entity.ae.wild_fire": "狱火行者"
+
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:netherite_sword",
+    "minecraft:nether_star"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae:wither_sword"
+  }
+}

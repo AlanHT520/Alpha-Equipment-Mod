@@ -1,0 +1,62 @@
+{
+  "itemGroup.ae.ae_items": "Alpha Equipment",
+
+  "item.ae.sculk_sword": "Sculk Sword",
+  "item.ae.sculk_pickaxe": "Sculk Pickaxe",
+  "item.ae.ice_sword": "Ice Sword",
+  "item.ae.blaze_sword": "Blaze Sword",
+  "item.ae.blaze_core": "Blaze Core",
+  "item.ae.ice_core": "Ice Core",
+
+  "item.ae.command_book": "Command Book",
+
+  "item.ae.command_sword": "Command Sword",
+  "item.ae.command_pickaxe": "Command Pickaxe",
+  "item.ae.command_axe": "Command Axe",
+  "item.ae.command_shovel": "Command Shovel",
+  "item.ae.command_hoe": "Command Hoe",
+
+  "item.ae.blood_sword": "Blooded Iron Sword",
+  "item.ae.core_sword": "Core Sword",
+  "item.ae.panda_sword": "Black White Sword",
+  "item.ae.thread_sword": "Thread Sword",
+  "item.ae.wish_sword": "Wish Sword",
+  "item.ae.wither_sword": "Wither Sword",
+  "item.ae.wither_a_sword": "Advanced Wither Sword",
+  "item.ae.ender_sword": "Ender Sword",
+  "item.ae.endered_sword": "Ender King Sword",
+  "item.ae.panda_pickaxe": "Black White Pickaxe",
+  "item.ae.core_pickaxe": "Core Pickaxe",
+  "item.ae.thread_pickaxe": "Thread Pickaxe",
+
+  "item.ae.redstone_claymore": "Redstone Claymore",
+  "item.ae.redstone_pickaxe": "Redstone Pickaxe",
+
+  "item.ae.thread_helmet": "Thread Helmet",
+  "item.ae.thread_chestplate": "Thread Chestplate",
+  "item.ae.thread_leggings": "Thread Leggings",
+  "item.ae.thread_boots": "Thread Boots",
+
+  "item.ae.core_helmet": "Core Helmet",
+  "item.ae.core_chestplate": "Core Chestplate",
+  "item.ae.core_leggings": "Core Leggings",
+  "item.ae.core_boots": "Core Boots",
+
+  "item.ae.panda_helmet": "Black White Helmet",
+  "item.ae.panda_chestplate": "Black White Chestplate",
+  "item.ae.panda_leggings": "Black White Leggings",
+  "item.ae.panda_boots": "Black White Boots",
+
+  "item.ae.blackstone_helmet": "Blackstone Helmet",
+  "item.ae.blackstone_chestplate": "Blackstone Chestplate",
+  "item.ae.blackstone_boots": "Blackstone Boots",
+
+
+  "item.ae.nether_reactor_core": "Nether Reactor Core",
+  "block.ae.nether_reactor_core": "Nether Reactor Core",
+
+  "item.ae.wildfire_spawn_egg": "Wild Fire Spawn Egg",
+
+  "entity.ae.wild_fire": "Wild Fire"
+
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": "minecraft:stick",
+    "D": "minecraft:diamond_block"
+  },
+  "pattern": [
+    "DDD",
+    " I ",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae:core_pickaxe"
+  }
+}

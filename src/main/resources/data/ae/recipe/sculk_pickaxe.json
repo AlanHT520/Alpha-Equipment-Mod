@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": "minecraft:diamond_pickaxe",
+    "G": "minecraft:sculk_catalyst"
+  },
+  "pattern": [
+    " G ",
+    "GIG",
+    " G "
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae:sculk_pickaxe"
+  }
+}
